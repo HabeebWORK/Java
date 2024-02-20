@@ -27,6 +27,15 @@ public class Calc {
 
 
 
+
+
+
+
+
+
+        // i dont know y i am trying this -------+0-------
+
+
 //        switch (operator) {
 //            case "+":
 //                System.out.println("You entered addition operator.");
