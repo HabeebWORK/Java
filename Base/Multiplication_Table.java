@@ -1,3 +1,5 @@
+package Base;
+
 import java.util.Scanner;
 
 public class Multiplication_Table {
