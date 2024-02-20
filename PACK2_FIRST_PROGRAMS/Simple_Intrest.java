@@ -16,7 +16,7 @@ public class Simple_Intrest {
         System.out.println("Enter Rate :");
         float rate = Input.nextFloat();
 
-        // formula is
+        // formula 
 
         float simpleIntrest = principal*Time*rate;
         System.out.println("your Simple intrest is = " + simpleIntrest);
