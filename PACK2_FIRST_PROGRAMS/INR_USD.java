@@ -7,12 +7,14 @@ public class INR_USD {
         Scanner Input = new Scanner(System.in);
 
 
-        System.out.println("Indian Rupees :");
+        System.out.println("ENTER USD :");
+        double USD = 82.90;
+
         double Indian_Rupees = Input.nextInt();
 
-        double USD = Indian_Rupees * 82.90 ;
+        Double INDIAN = Indian_Rupees * USD;
 
-        System.out.println("INDIAN RUPEES IN USD = "+USD);
+        System.out.println("INDIAN RUPEES IN USD = "+INDIAN);
 
 
 
